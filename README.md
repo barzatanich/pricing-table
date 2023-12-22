@@ -1,5 +1,7 @@
 # Pricing Table Project
 
+Demo: [LINK](https://layout-table.netlify.app/)
+
 ## Overview
 This project includes an HTML and CSS implementation of a responsive pricing table, designed with a modern and user-friendly interface.
 
