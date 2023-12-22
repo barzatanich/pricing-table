@@ -24,6 +24,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 25px;
+
 }
 
 .pricing {
@@ -149,10 +151,6 @@ body {
 }
 
 @media (max-width: 850px) {
-  .main-style {
-    padding: 25px;
-  }
-
   .pricing {
     width: 100%;
     flex-direction: column;
@@ -174,6 +172,5 @@ body {
     margin: 0 auto;
     padding-left: 25px;
     padding-right: 25px;
-
   }
 }
